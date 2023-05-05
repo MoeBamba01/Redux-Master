@@ -1,0 +1,27 @@
+.form-control:focus{
+  border: 2px solid #09e7f7 !important;
+  box-shadow: none !important;
+}
+.form-control{
+  width: 350px !important;
+  border: 2px solid #01a2ff !important;
+  padding: 10px !important;
+  padding-left: 35px !important; 
+  margin-left: -30px;
+  margin-top: 2%;
+}
+.taskName{
+  width: '35px'
+}
+.add{
+  padding: 40px 0px 40px 0px;
+}
+.title{
+  font-family: 'Dancing Script', cursive;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.taskName{
+  color: white;
+}
